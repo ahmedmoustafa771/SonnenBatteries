@@ -41,7 +41,7 @@ A React Native mobile application that visualizes a customer's battery charging 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/battery-charging-visualization.git
+git clone https://github.com/ahmedmoustafa771/SonnenBatteries.git
 cd battery-charging-visualization
 
 # Install dependencies
